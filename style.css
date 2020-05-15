@@ -1,0 +1,70 @@
+body {
+    background-color: #000000;
+}
+
+#main{
+    background-color: #ffffff;
+    width: 28%;
+    margin: 100px auto;
+}
+
+
+.fa-html5 {
+    margin: 15px 5px 15px 10px;
+    float: left;
+}
+
+#top {
+    height: 70px;
+}
+
+#top-center {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+#top-center p{
+    display: block;
+    margin: 0px;
+    padding: 2px;
+}
+
+.fa-ellipsis-v{
+    display: inline-block;
+    float: right;
+    margin: 10px 20px 0px 0px;
+}
+
+#imagen img {
+    width: 100%;
+}
+
+span {
+    font-weight: bold;
+    padding: 2px;
+}
+
+i[class^="fa"] {
+    font-size: 25px;
+}
+
+.fa-bookmark {
+    float: right;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+#icons-left{
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#contenido {
+    margin: 10px;
+    height: 150px;
+}
+
+#comentario{
+    text-align: justify;
+}
